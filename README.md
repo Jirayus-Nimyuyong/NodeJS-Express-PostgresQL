@@ -5,7 +5,7 @@
   * run npm install OR yarn install
  *  config database PostgresQL
   * run yarn develop
-  * Load http://localhost:3000/test
+  * Load http://localhost:5000/test
 
 Look through the Node.Js docs here: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
 
