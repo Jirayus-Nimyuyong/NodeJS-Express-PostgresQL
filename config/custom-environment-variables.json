@@ -1,0 +1,16 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "pg": {
+        "host": "PGHOST",
+        "user": "PGUSER",
+        "pass": "PGPASSWORD",
+        "database": "PGDATABASE",
+        "port": "PGPORT"
+    }
+}
